@@ -1,5 +1,5 @@
 board = [" " for x in range(10)]
-ghhjhvhvhvkhhv
+
 def insert_letter(letter, pos):
 	board[pos] = letter
 
